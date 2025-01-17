@@ -1,11 +1,11 @@
 # YouTube Website Project
 ## Layihənin məqsədi
 
-Ümumi baxış
+### Ümumi baxış
 
 Bu layihə HTML və CSS istifadə edərək yaradılmış YouTube veb səhifəsinin sadə tətbiqidir. Əsas diqqət funksional navbar və sidebar də daxil olmaqla, düzgün nested div strukturunun yaradılması təcrübəsi idi. Təmiz və interaktiv tərtibata nail olmaq üçün müxtəlif CSS üsullarından istifadə edilmişdir.
 
-Xüsusiyyətlər
+### Xüsusiyyətlər
 
 Navbar: Müxtəlif bölmələrə keçidləri olan həssas naviqasiya paneli.
 
@@ -23,7 +23,7 @@ Flexbox: Düzəldici düzülmə və cavab reaksiyası üçün tətbiq edilir.
 
 CSS Grid: Əsas məzmun sahəsini strukturlaşdırmaq üçün istifadə olunur.
 
-İstifadə olunan Texnologiyalar
+### İstifadə olunan Texnologiyalar
 
 HTML: Veb səhifə elementlərini strukturlaşdırmaq üçün.
 
@@ -31,11 +31,11 @@ CSS: Üslub, tərtibat dizaynı və interaktivliyin həyata keçirilməsi üçü
 
 Quraşdırma
 
-Anbarı klonlayın:
+### Codu klonlayın:
 
 git clone https://github.com/ismayilovadilber66/youtube-website.git
 
-Layihə kataloquna keçin:
+### Layihəyəyə  keçid:
 
 cd youtube-saytı
 
@@ -49,14 +49,14 @@ Dizaynı araşdırmaq üçün veb saytı brauzerinizdə açın.
 
 İnteraktiv tooltip və hover effektlərini görmək üçün nişanlar və düymələr kimi elementlərin üzərinə sürüşdürün.
 
-Layihənin strukturu
+### Layihənin strukturu
 
 youtube-sayt/
 ├── index.html # Əsas HTML faylı
 ├── style.css # üslubları, tərtibatı və interaktivliyi ehtiva edən CSS faylı
 └── README.md # Layihə sənədləri
 
-Öyrənmə Məqsədləri
+### Öyrənmə məqsədləri
 
 Nested div strukturu  ilə yaxşı strukturlaşdırılmış HTML sənədinin əhəmiyyətini anlayın.
 
@@ -64,9 +64,7 @@ Grid və flexbox kimi CSS layout üsulları ilə praktiki təcrübə qazanın.
 
 Tooltip, hover effektləri və naviqasiya menyuları kimi interaktiv və istifadəçi dostu veb komponentləri yaratmağı məşq edin.
 
-Fərdiləşdirmə
-
-Layihənin aşağıdakı aspektlərini dəyişdirməkdən çekinmeyin:
+### Layihənin aşağıdakı aspektlərini dəyişdirməkdən çekinmeyin:
 
 Rəng sxemini və ya şrift üslublarını yaradacağınız dizayna uyğunlaşdırmaq üçün style.css-də yeniləyin.
 
@@ -74,13 +72,13 @@ Navbar və sidebar yeni bölmələr və ya funksiyalar əlavə edin.
 
 Daha təkmil CSS animasiyaları və keçidləri ilə sınaqdan keçirin.
 
-Qarşılaşılan Problemlər
+### Qarşılaşılan Problemlər
 
 CSS Grid istifadə edərək sidebar və əsas məzmun sahəsinin uyğunlaşdırılması.
 
 Hoverdə problemsiz görünən tooltip həyata keçirilməsi.
 
-Təşəkkürlər
+### Təşəkkürlər
 
 Bu layihə frontend inkişaf bacarıqlarını təkmilləşdirmək və CSS layout üsullarını araşdırmaq üçün təcrübə məşqi kimi yaradılmışdır.
 
