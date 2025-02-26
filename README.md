@@ -80,8 +80,4 @@ Hoverdə problemsiz görünən tooltip həyata keçirilməsi.
 
 ### Təşəkkürlər
 
-Bu layihə frontend inkişaf bacarıqlarını təkmilləşdirmək və CSS layout üsullarını araşdırmaq üçün təcrübə məşqi kimi yaradılmışdır.
-
-Lisenziya
-
-Bu layihə açıq mənbəlidir.
+Bu layihə frontend inkişaf bacarıqlarını təkmilləşdirmək və CSS layout üsullarını araşdırmaq üçün praktika məqsədilə yaradılmışdır.
