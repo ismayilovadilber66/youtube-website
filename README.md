@@ -1,9 +1,8 @@
 # YouTube Website Project
-## Layihənin məqsədi
-
 ### Ümumi baxış
 
 Bu layihə HTML və CSS istifadə edərək yaradılmış YouTube veb səhifəsinin sadə tətbiqidir. Əsas diqqət funksional navbar və sidebar də daxil olmaqla, düzgün nested div strukturunun yaradılması təcrübəsi idi. Təmiz və interaktiv tərtibata nail olmaq üçün müxtəlif CSS üsullarından istifadə edilmişdir.
+
 
 ### Xüsusiyyətlər
 
