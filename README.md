@@ -3,7 +3,7 @@
 
 Bu layihə HTML və CSS istifadə edərək yaradılmış YouTube veb səhifəsinin sadə tətbiqidir. Əsas diqqət funksional navbar və sidebar də daxil olmaqla, düzgün nested div strukturunun yaradılması təcrübəsi idi. Təmiz və interaktiv tərtibata nail olmaq üçün müxtəlif CSS üsullarından istifadə edilmişdir.
 
-![Alt text](https://github.com/ismayilovadilber66/youtube-website/blob/79f515cc5991816c4ebb5579063e210221b439b4/food.png)
+![Alt text](https://github.com/ismayilovadilber66/youtube-website/blob/95f288e598571a76d357b7cbeb7ed8b47c69eea0/YouTube.png)
 ### Xüsusiyyətlər
 
 Navbar: Müxtəlif bölmələrə keçidləri olan həssas naviqasiya paneli.
